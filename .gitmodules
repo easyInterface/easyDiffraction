@@ -1,0 +1,3 @@
+[submodule "easyInterface"]
+	path = easyInterface
+	url = git@github.com:easyInterface/easyInterface.git
